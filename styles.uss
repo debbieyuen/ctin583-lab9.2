@@ -1,0 +1,22 @@
+:root {
+    justify-content: center;
+    align-items: center;
+}
+
+Label {
+    color: white;
+    font-size: 100px;
+}
+
+VisualElement {
+    width: 50%;
+    height: 100%;
+}
+
+.container {
+    background-color: white;
+    border-width: 10px;
+    border-color: red;
+    border-radius: 15px;
+    flex-direction: row;
+}
